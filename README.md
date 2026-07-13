@@ -65,9 +65,9 @@
 
 ---
 
-# 🚀 Featured Projects
+# Featured Projects
 
-## 📚 Library Management System
+##  Library Management System
 
 ✔ Java
 
@@ -81,7 +81,7 @@
 
 ---
 
-## 🎬 Movie Ticket Booking System
+##  Movie Ticket Booking System
 
 ✔ Java
 
@@ -109,10 +109,10 @@ Coming Soon...
 - HackerRank
 
 ---
-## 🧠 LeetCode
+<h2 align="center">🧠 LeetCode</h2>
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/[kanishkasharma644](https://leetcode.com/u/kanishkasharma644/)?theme=dark&font=Baloo&ext=contest" />
+  <img src="https://leetcard.jacoblin.cool/kanishkasharma644?theme=dark&font=Baloo&ext=contest" width="600"/>
 </p>
  
 
