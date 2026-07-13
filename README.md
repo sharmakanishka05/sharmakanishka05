@@ -109,7 +109,11 @@ Coming Soon...
 - HackerRank
 
 ---
+## 🧠 LeetCode
 
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/[kanishkasharma644](https://leetcode.com/u/kanishkasharma644/)?theme=dark&font=Baloo&ext=contest" />
+</p>
  
 
 # ✨ Quote
