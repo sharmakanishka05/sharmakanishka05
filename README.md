@@ -1,11 +1,10 @@
- <h1 align="center">Hi 👋, I'm Kanishka Sharma</h1>
-<h3 align="center">Java Developer | DSA Enthusiast | Full Stack Learner | Open Source Beginner</h3>
+<div align="center">
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Java+Developer;Problem+Solver;DSA+Enthusiast;Full+Stack+Learner;Open+Source+Contributor;Always+Learning&center=true&width=700&height=45">
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Kanishka%20Sharma&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&color=0:00C6FF,100:0072FF"/>
 
----
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Java+Developer;MCA+Student+at+KIT+Kanpur;Backend+Developer;Spring+Boot+Learner;React+Learner;Open+Source+Enthusiast;Building+Awesome+Projects+🚀"/>
+
+</div>
 
 #  About Me
 
