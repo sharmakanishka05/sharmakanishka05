@@ -1,13 +1,6 @@
 <div align="center">
 
-```
-#...# .###. #...# ##### .#### #...# #...# .###.    .#### #...# .###. ####. #...# .###.
-#..#. #...# ##..# ..#.. #.... #...# #..#. #...#    #.... #...# #...# #...# ##.## #...#
-###.. ##### #.#.# ..#.. .###. ##### ###.. #####    .###. ##### ##### ####. #.#.# #####
-#..#. #...# #..## ..#.. ....# #...# #..#. #...#    ....# #...# #...# #..#. #...# #...#
-#...# #...# #...# ##### ####. #...# #...# #...#    ####. #...# #...# #...# #...# #...#
-```
-
+<img src="https://capsule-render.vercel.app/api?type=rect&height=140&color=1a1a1a&text=Kanishka%20Sharma&fontSize=48&fontColor=F5A623&fontAlignY=55&desc=Java%20%7C%20Backend%20%7C%20Spring%20Boot&descAlignY=80&descSize=18&descColor=e0e0e0" width="100%"/>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F5A623&center=true&vCenter=true&width=650&lines=Java+%7C+Spring+Boot+Developer;MCA+Student+%40+KIT+Kanpur;Backend+%26+Full+Stack+Developer;Building+Hire_Lens+%F0%9F%9A%80;Open+Source+Enthusiast" alt="Typing SVG" />
 
