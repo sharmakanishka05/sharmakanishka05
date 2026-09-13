@@ -52,7 +52,7 @@ public class KanishkaSharma {
 |---|---|
 | 🎓 **Education** | Pursuing my **MCA** at Kanpur Institute of Technology (KIT), Kanpur |
 | 💡 **Passionate about** | Java, Data Structures & Algorithms, Backend Development, Full Stack Web Dev |
-| 🔭 **Currently building** | **[Hire_Lens](https://github.com/sharmakanishka05/Hire_Lens)** — an AI-powered resume analyzer ([Live Demo](https://hire-lens-mbwq.vercel.app/)) |
+| 🔭 **Currently building** | **[Hire_Lens](https://github.com/sharmakanishka05/Hire_Lens)** — an AI-powered resume analyzer ([Live Demo]((https://hire-lens-mbwq.vercel.app/analyze))) |
 | 🌱 **Currently learning** | Spring Boot · React.js · Advanced DSA · REST APIs · System Design |
 | 👯 **Open to collaborate on** | Java / Spring Boot backend projects & DSA practice |
 | 💬 **Ask me about** | Java, OOP, DSA, or building backend systems |
