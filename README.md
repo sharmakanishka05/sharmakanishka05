@@ -50,14 +50,14 @@ public class KanishkaSharma {
 
 |  |  |
 |---|---|
-| 🎓 **Education** | Pursuing my **MCA** at Kanpur Institute of Technology (KIT), Kanpur |
-| 💡 **Passionate about** | Java, Data Structures & Algorithms, Backend Development, Full Stack Web Dev |
-| 🔭 **Currently building** | **[Hire_Lens](https://github.com/sharmakanishka05/Hire_Lens)** — an AI-powered resume analyzer ([Live Demo]((https://hire-lens-mbwq.vercel.app/analyze))) |
-| 🌱 **Currently learning** | Spring Boot · React.js · Advanced DSA · REST APIs · System Design |
-| 👯 **Open to collaborate on** | Java / Spring Boot backend projects & DSA practice |
-| 💬 **Ask me about** | Java, OOP, DSA, or building backend systems |
-| 🎯 **Goal** | Land an SDE role at a product-based company |
-| ⚡ **Philosophy** | *"Consistency beats intensity"* — one commit at a time |
+| 🎓 **Education** | Pursuing my **MCA** at **Kanpur Institute of Technology (KIT), Kanpur** |
+| 💡 **Passionate about** | **Java, Data Structures & Algorithms, Backend Development, Full Stack Development** |
+| 🔭 **Currently building** | **[Hire_Lens](https://github.com/sharmakanishka05/Hire_Lens)** — an AI-powered resume analyzer built with **Next.js, FastAPI, Ollama & Qwen3** ([Live Demo](https://hire-lens-mbwq.vercel.app/analyze)) |
+| 🌱 **Currently learning** | **Spring Boot · React.js · Advanced DSA · REST APIs · System Design** |
+| 👯 **Open to collaborate on** | **Java / Spring Boot backend projects, AI-powered applications & DSA projects** |
+| 💬 **Ask me about** | **Java, OOP, DSA, Backend Development, REST APIs & AI applications** |
+| 🎯 **Goal** | Build scalable software and land an **SDE role at a product-based company** |
+| ⚡ **Philosophy** | *"Consistency beats intensity"* — **learn, build, improve, repeat.** |
 
 
 <br/>
