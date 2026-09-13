@@ -41,25 +41,16 @@ public class KanishkaSharma {
 }
 ```
 
-</td>
-<td width="40%" valign="top">
-<img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="100%"/>
-</td>
-</tr>
-</table>
-
 |  |  |
 |---|---|
 | 🎓 **Education** | Pursuing my **MCA** at **Kanpur Institute of Technology (KIT), Kanpur** |
 | 💡 **Passionate about** | **Java, Data Structures & Algorithms, Backend Development, Full Stack Development** |
-| 🔭 **Currently building** | **[Hire_Lens](https://github.com/sharmakanishka05/Hire_Lens)** — an AI-powered resume analyzer built with **Next.js, FastAPI, Ollama & Qwen3** ([Live Demo](https://hire-lens-mbwq.vercel.app/analyze)) |
+| 🔭 **Currently building** | **[Hire_Lens](https://github.com/sharmakanishka05/Hire_Lens)** — an AI-powered resume analyzer built with **Next.js, FastAPI, Ollama & Qwen3** — **[Visit Website](https://hire-lens-mbwq.vercel.app/analyze)** |
 | 🌱 **Currently learning** | **Spring Boot · React.js · Advanced DSA · REST APIs · System Design** |
 | 👯 **Open to collaborate on** | **Java / Spring Boot backend projects, AI-powered applications & DSA projects** |
 | 💬 **Ask me about** | **Java, OOP, DSA, Backend Development, REST APIs & AI applications** |
 | 🎯 **Goal** | Build scalable software and land an **SDE role at a product-based company** |
 | ⚡ **Philosophy** | *"Consistency beats intensity"* — **learn, build, improve, repeat.** |
-
-
 <br/>
 
 ## 🌐 Connect With Me
