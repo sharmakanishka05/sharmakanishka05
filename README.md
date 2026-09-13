@@ -51,6 +51,7 @@ public class KanishkaSharma {
 | 💬 **Ask me about** | **Java, OOP, DSA, Backend Development, REST APIs & AI applications** |
 | 🎯 **Goal** | Build scalable software and land an **SDE role at a product-based company** |
 | ⚡ **Philosophy** | *"Consistency beats intensity"* — **learn, build, improve, repeat.** |
+
 <br/>
 
 ## 🌐 Connect With Me
