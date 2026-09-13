@@ -52,7 +52,7 @@ public class KanishkaSharma {
 |---|---|
 | 🎓 **Education** | Pursuing my **MCA** at Kanpur Institute of Technology (KIT), Kanpur |
 | 💡 **Passionate about** | Java, Data Structures & Algorithms, Backend Development, Full Stack Web Dev |
-| 🔭 **Currently building** | **[Hire_Lens](https://github.com/sharmakanishka05/Hire_Lens)** — an AI-powered resume analyzer |
+| 🔭 **Currently building** | **[Hire_Lens](https://github.com/sharmakanishka05/Hire_Lens)** — an AI-powered resume analyzer ([Live Demo](https://hire-lens-mbwq.vercel.app/)) |
 | 🌱 **Currently learning** | Spring Boot · React.js · Advanced DSA · REST APIs · System Design |
 | 👯 **Open to collaborate on** | Java / Spring Boot backend projects & DSA practice |
 | 💬 **Ask me about** | Java, OOP, DSA, or building backend systems |
@@ -120,6 +120,15 @@ public class KanishkaSharma {
 
 <img src="https://img.shields.io/github/languages/top/sharmakanishka05/Hire_Lens?style=flat-square"/>
 <img src="https://img.shields.io/github/last-commit/sharmakanishka05/Hire_Lens?style=flat-square"/>
+
+<p>
+  <a href="https://github.com/sharmakanishka05/Hire_Lens" target="_blank">
+    <img src="https://img.shields.io/badge/-Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://hire-lens-mbwq.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/-Live%20Demo-F5A623?style=for-the-badge&logo=vercel&logoColor=black"/>
+  </a>
+</p>
 
 </td>
 </tr>
